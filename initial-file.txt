@@ -5,5 +5,6 @@ Anther new line added by develper A
 Modified by developer A
 Another line added by Developer B
 
-New line developer A
 Some other new line A
+
+Again some work -- Dev A
