@@ -1,1 +1,2 @@
 New file added by developer B
+New line added by developer A

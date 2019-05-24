@@ -2,5 +2,8 @@ Initial line - Developer A
 
 New lines added by developer A
 Anther new line added by develper A
-Some line added by Developer B
+Modified by developer A
 Another line added by Developer B
+
+New line developer A
+Some other new line A
