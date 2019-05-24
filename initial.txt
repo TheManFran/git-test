@@ -2,5 +2,8 @@ A - Added initial file
 A - Some other line
 A - Some other line
 
-A - Fetch test
 A - Fetch again
+
+B - this is the next line
+B - should be this
+B - going to delete line 5
