@@ -16,3 +16,5 @@ A - Some other conflict
 B - Another conflict
 A - added
 B - Added
+A - changes
+A - more changes
