@@ -8,3 +8,6 @@ Another line added by Developer B
 Some other new line A
 
 Again some work -- Dev A
+
+some work to be done
+actually this must be here
