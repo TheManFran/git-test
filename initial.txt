@@ -3,3 +3,4 @@ A - Some other line
 A - Some other line
 
 A - Fetch test
+A - Fetch again
