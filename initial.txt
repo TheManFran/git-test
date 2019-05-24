@@ -4,7 +4,6 @@ A - Some other line
 
 A - Fetch again
 
-B - this is the next line
 B - should be this
 B - going to delete line 5
 
@@ -14,3 +13,4 @@ A - like a boss
 
 A - Some change to confict
 A - Some other conflict
+B - Another conflict

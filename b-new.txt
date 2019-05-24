@@ -1,2 +1,3 @@
 B - file added
 A - Super Conflict
+B - Another conflict
