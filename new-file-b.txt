@@ -1,6 +1,0 @@
-New file added by developer B
-New line added by developer A
-
-Doing some more work
-Added some other line
-removed that incorrect line
