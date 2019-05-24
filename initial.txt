@@ -4,3 +4,7 @@ A - Some other line
 
 A - Fetch test
 A - Fetch again
+
+A - added another line
+A - and some more lines here
+A - like a boss
