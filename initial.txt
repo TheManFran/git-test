@@ -7,3 +7,7 @@ A - Fetch again
 B - this is the next line
 B - should be this
 B - going to delete line 5
+
+A - added another line
+A - and some more lines here
+A - like a boss
