@@ -18,3 +18,5 @@ A - added
 B - Added
 A - changes
 A - more changes
+A - some new change
+A - some other change
