@@ -18,5 +18,5 @@ A - added
 B - Added
 A - changes
 A - more changes
-A - some new change
-A - some other change
+B - don't trust this update
+B - I like to break things
