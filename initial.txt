@@ -1,3 +1,5 @@
 A - Added initial file
 A - Some other line
 A - Some other line
+
+A - Fetch test
