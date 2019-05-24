@@ -5,7 +5,7 @@ A - Some other line
 A - Fetch again
 
 B - should be this
-B - going to delete line 5
+B - going to delete line 5 - A - edited
 
 A - added another line
 A - and some more lines here
@@ -14,3 +14,4 @@ A - like a boss
 A - Some change to confict
 A - Some other conflict
 B - Another conflict
+A - added
