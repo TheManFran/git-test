@@ -1,4 +1,9 @@
 Initial line - Developer A
 
+<<<<<<< HEAD
 New lines added by developer A
 Anther new line added by develper A
+=======
+Some line added by Developer B
+Another line added by Developer B
+>>>>>>> 2d837b0... Added some new file and some stuff to initial-file
