@@ -1,2 +1,3 @@
 A - test merge
 A - conflict
+A- rebase
