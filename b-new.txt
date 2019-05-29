@@ -1,4 +1,0 @@
-B - file added
-A - Super Conflict
-B - Another conflict
-A - Another change
