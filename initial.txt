@@ -1,3 +1,4 @@
 A - test merge
 A - conflict
 B - conflict
+A - rebase

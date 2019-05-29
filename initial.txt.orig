@@ -1,0 +1,7 @@
+A - test merge
+A - conflict
+<<<<<<< HEAD
+A- rebase
+=======
+B - conflict
+>>>>>>> e591044066532e85b0b54c8906e041120ea03364
